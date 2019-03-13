@@ -18,4 +18,4 @@ Please cite this paper in your publications if you use OMRC for your research:
   }
 
 # Contact
-If you find any questions, please feel free to contact 1141952871@mail.qq.com
+If you find any questions, please feel free to contact 1141952871@qq.com
